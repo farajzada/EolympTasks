@@ -1,7 +1,7 @@
 package basicHomeWork;
 
-public class Main {
+public class FirstHomeWork {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("1\n2\n3\n4\n5");
     }
 }
